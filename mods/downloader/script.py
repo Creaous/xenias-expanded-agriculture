@@ -20,7 +20,7 @@ C_END = '\033[0m'
 DOWNLOAD_DELAY_SECONDS = 1 
 DELETE_CORRUPTED_FILES = True # RECOMMENDED FOR SECURITY AND INTEGRITY PURPOSES!!
 DOWNLOAD_DIR = "downloads"
-INDEX_DIR = ".." 
+INDEX_DIR = "../index" 
 # ---------------------
 
 def calculate_sha512(filepath: str) -> str:
