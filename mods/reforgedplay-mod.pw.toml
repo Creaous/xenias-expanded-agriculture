@@ -1,0 +1,16 @@
+filename = 'reforgedplaymod-1.20.1-0.3.1.jar'
+name = 'ReForgedPlay [replay mod on (neo)forge]'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '37b714750d0e5487b488b29ff1e1623e5bb18ed6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5637596
+project-id = 1018692

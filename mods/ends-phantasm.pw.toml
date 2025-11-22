@@ -1,0 +1,16 @@
+filename = 'phantasm-1.0.1.jar'
+name = "End's Phantasm"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '203c5bf59ba7e31649db7375dac75520f35a4416e3bab712d45e9f7874d54597c1f5ad064da80fb0603c97639a95ef0e76f873776772d3e5b1dd37de48bd52fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JGfljjtd/versions/Cox3nlK0/phantasm-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'JGfljjtd'
+version = 'Cox3nlK0'

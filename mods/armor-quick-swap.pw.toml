@@ -1,0 +1,16 @@
+filename = 'ArmorQuickSwap-v8.0.0-1.20.1-Forge.jar'
+name = 'Armor Quick Swap'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'abd5c520f57b8729788f541cc4a39646a09d93094e12ba46b16434c1c50d2b9306a9c2cae413be8ecf1e9ec987cdee4b79edae043f4422f417563139d61a3c90'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YxCEfYbF/versions/WnJD8rBH/ArmorQuickSwap-v8.0.0-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'YxCEfYbF'
+version = 'WnJD8rBH'

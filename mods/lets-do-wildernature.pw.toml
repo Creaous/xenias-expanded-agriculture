@@ -1,0 +1,16 @@
+filename = 'letsdo-wildernature-forge-1.0.6.jar'
+name = "[Let's Do] WilderNature"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '046baf2c02decb38ddd3158c2a73b5caa3f27f7c6a971be2d7265e3b797e3d4494e7d29a03bc851dce7aae43366505ebca37faed5e193896d4c9bbc607307339'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AAiRU4aQ/versions/MOt4yaRr/letsdo-wildernature-forge-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'AAiRU4aQ'
+version = 'MOt4yaRr'

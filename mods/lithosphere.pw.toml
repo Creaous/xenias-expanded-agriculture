@@ -1,0 +1,16 @@
+filename = 'lithosphere-1.7.jar'
+name = 'Lithosphere'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '784bcaa1f32ce00302f6008bbb435c4dd97e76190ddcaf1b66dff6bcfc37bda94a2b99089ea7dc3b9134fcd66210ca0ae001a693ae11081fe9b577285a1be484'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iv9jp2k9/versions/RHWYyWOp/lithosphere-1.7.jar'
+
+[update.modrinth]
+mod-id = 'iv9jp2k9'
+version = 'RHWYyWOp'

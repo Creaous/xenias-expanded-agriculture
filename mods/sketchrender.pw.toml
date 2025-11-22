@@ -1,0 +1,16 @@
+filename = 'sketch_render-1.20.1-0.1.0a.jar'
+name = 'SketchRender'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'd6b3726f569fb057424e39ac1865fc345f8dccd6b54ff7321c4ceab39926ea3711d56d5da6aa8203f8ef4dfddebfa7e35ed1928ad0e12ae5f01c9937eb88950a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UPcO5Q0U/versions/VWz7savv/sketch_render-1.20.1-0.1.0a.jar'
+
+[update.modrinth]
+mod-id = 'UPcO5Q0U'
+version = 'VWz7savv'

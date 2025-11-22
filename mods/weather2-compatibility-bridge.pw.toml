@@ -1,0 +1,16 @@
+filename = 'weather2modcompat-1.0.0.jar'
+name = 'Weather2 Compatibility Bridge'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2bc8b3f11fdf3d64382879459d1c668fa8f374d905f8eec8254afc30ed8c07f177ba401b172956638e7dc61e6d46188ac15fed91d605a3e1b1c576c1d0caf684'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rpE52GY8/versions/UsQ441L9/weather2modcompat-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'rpE52GY8'
+version = 'UsQ441L9'

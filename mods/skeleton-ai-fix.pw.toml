@@ -1,0 +1,16 @@
+filename = 'SkeletonAIFix-v20.1.1-1.20.1-Forge.jar'
+name = 'Skeleton AI Fix'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '440e921363722a4514a63c92147d7cc0e3714be28c95eda1045624171f18fbd720f5e9b607db0556b9d7ac982943ec70094f3efd4a2943b214da80cfb59295f6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jn24bUJo/versions/VMGmo5Si/SkeletonAIFix-v20.1.1-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'jn24bUJo'
+version = 'VMGmo5Si'

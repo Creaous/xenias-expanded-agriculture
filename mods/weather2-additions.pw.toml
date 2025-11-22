@@ -1,0 +1,16 @@
+filename = 'weather2_additions-2.4.jar'
+name = 'Weather2 Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1d270728f365530e13fdd530af4d37f06ca3cdc7c739f1165899e38f7a618e9ea1fdc3c8305555422d4a92c7700e64ec1d97978aa0252b7aade0d736a1cb871e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/osDYP8Fd/versions/gfWbehyG/weather2_additions-2.4.jar'
+
+[update.modrinth]
+mod-id = 'osDYP8Fd'
+version = 'gfWbehyG'
