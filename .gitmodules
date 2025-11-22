@@ -1,0 +1,3 @@
+[submodule "mods/downloader"]
+	path = mods/downloader
+	url = https://github.com/Creaous/prismlauncher-index-mod-downloader.git
