@@ -8,7 +8,7 @@ Welcome to Xenia's Expanded Agriculture (also known as XEA)! Enjoy an expanded v
 
 ## Main Notable Mods
 
-There are a large number of mods in this modpack (180+), but here are the notable mods that expand or add new features.
+There are a large number of mods in this modpack (190+ - based off of the amount of jars), but here are the notable mods that expand or add new features.
 
 - **Tough As Nails:** Remember to drink lots of water and don't get too cold/hot.
 - **Thin Air:** Make sure you don't go too deep without a respirator!
@@ -23,6 +23,7 @@ There are a large number of mods in this modpack (180+), but here are the notabl
 - **Alex's Mobs:** Adds a lot of new mobs to the game, including new animals!
 - **Aquaculture 2:** Normal fishing is quite boring, so why not add new rods and fish?
 - **Map Atlases:** A vanilla-friendly way of adding a "minimap" (not on your HUD).
+- **All Bark, All Bite:** Wolves are now revamped to be smarter in all ways!
 
 ## Other Notable Mods
 
