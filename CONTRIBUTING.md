@@ -4,6 +4,14 @@ Hi there! Thank you for your interest in contributing to Xenia's Expanded Agricu
 
 If you are attempting to report an issue, please do so under the [Issues](https://github.com/Creaous/xenias-expanded-agriculture/issues) tab.
 
+## Guide
+
+1. Fork the repository: https://github.com/Creaous/xenias-expanded-agriculture/fork
+2. Clone **your** fork: `git clone https://github.com/YOURNAMEGOESHERE/xenias-expanded-agriculture.git`
+3. Initalise the submodules: `git submodule init`
+4. Update the submodules: `git submodule update --init --recursive`
+5. Make a pull request (look up how to do this).
+
 ## Rules
 
 1. Please be respectful to other contributors.
