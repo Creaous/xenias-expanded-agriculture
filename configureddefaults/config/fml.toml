@@ -7,11 +7,11 @@ earlyWindowControl = true
 #Early window framebuffer scale
 earlyWindowFBScale = 1
 #Early window provider
-earlyWindowProvider = "fmlearlywindow"
+earlyWindowProvider = "SimpleCustomEarlyLoading"
 #Early window width
 earlyWindowWidth = 854
 #Early window starts maximized
-earlyWindowMaximized = false
+earlyWindowMaximized = true
 #Default config path for servers
 defaultConfigPath = "defaultconfigs"
 #Disables Optimized DFU client-side - already disabled on servers
@@ -26,3 +26,4 @@ maxThreads = -1
 earlyWindowSquir = false
 #Whether to show CPU usage stats in early window
 earlyWindowShowCPU = true
+

@@ -1,0 +1,16 @@
+filename = 'tancompat-forge-1.20.1-1.0.0.jar'
+name = 'Tough as Nails Compat'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c5ec4ed08e90802b404a74a059cf7077bd20b23467ae1ccdb21f71a0b0bd53f09d3a2feb2885382b39c5bd98b6a971bcaaa3097f7b566da71cf54dc63ba66294'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tBOXLFOa/versions/tGFiZyut/tancompat-forge-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'tBOXLFOa'
+version = 'tGFiZyut'

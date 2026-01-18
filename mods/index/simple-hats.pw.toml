@@ -1,0 +1,16 @@
+filename = 'simplehats-forge-1.20.1-0.4.0.jar'
+name = 'SimpleHats'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'abe2c5880a563cc4cb2819021bbf45c1e15ff557b6118196c72cacaacd79def957d782563b8f9c92a9cca9fef9cf328c425fe1114ec63097d5f0956edc833698'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iSkQCp6b/versions/jgJvtZiI/simplehats-forge-1.20.1-0.4.0.jar'
+
+[update.modrinth]
+mod-id = 'iSkQCp6b'
+version = 'jgJvtZiI'

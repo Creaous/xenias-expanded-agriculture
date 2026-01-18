@@ -1,16 +1,16 @@
-filename = 'gnetum-2.3.1.jar'
+filename = 'gnetum-2.3.5.jar'
 name = 'Gnetum'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '44fbbb1555663fbc67a949ae72117bf9a0ff22c114eb26cb8a636c16020abc0d3d2b519606d68925f1b4353eabbfda84067c16f3b415f63f7fc2a90b4a45fb54'
+hash = '3818aa134da3d6a8aafe5d4e3cf907d3ad8c334fc233db660b73c70b09e0d86500f1c3595ecef3d0d1054a8c5f7d14068358b17689138930a664ffa47fb5fefc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/7MoE34WK/versions/bzJkVnXG/gnetum-2.3.1.jar'
+url = 'https://cdn.modrinth.com/data/7MoE34WK/versions/hkaJpG00/gnetum-2.3.5.jar'
 
 [update.modrinth]
 mod-id = '7MoE34WK'
-version = 'bzJkVnXG'
+version = 'hkaJpG00'

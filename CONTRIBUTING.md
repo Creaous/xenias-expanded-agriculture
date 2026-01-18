@@ -33,6 +33,8 @@ Please refrain from adding mods which:
 - Use TerraBlender to interface with terrian generation, see [here](https://github.com/Glitchfiend/TerraBlender/issues/159). I am aware of [TerraBlenderFix](https://modrinth.com/mod/terrablenderfix) but it is a hacky way around the issue.
 - Majorly overhaul the overworld in some way. Please note that the modpack already has the [Lithosphere](https://modrinth.com/datapack/lithosphere) mod.
 - Add a lot of blocks and/or items to the Minecraft registry (unless necessary). This is due to the fact that this could cause major lag.
+- While we do have mods that are not related to agriculture, please try your best to only add mods that can be used for agriculture.
+  - If a mod does not meet the requirements, please create a discussion post and we can discuss if it should be added or not.
 
 _No hate to any mods listed here, I just do not believe they fit this modpack or have issues that need to be fixed._
 

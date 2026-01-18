@@ -1,4 +1,4 @@
-filename = 'Krypton FNP-forge-1.20.1-0.2.24-lite.jar'
+filename = 'Krypton FNP-forge-1.20.1-0.2.28.2-1.20.1.jar'
 name = 'Krypton FNP'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c6356287b1364907f8b759809d9d9771e53bb1500eac699f30903bc0404d991f7bce17508a1f3859de0cf7e47b5af380c854224d5bffb5c8d4b0206501d956c9'
+hash = '103e08777f541b54240a1fd42669f308f1b672ab5e6ffb7469ca2a9fd1827cb22b4d41b53d08a1f064c250c5d2eb84dec96daf604c927354154fdec443693997'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/JkxWVYwU/versions/3OHXI5Fu/Krypton FNP-forge-1.20.1-0.2.24-lite.jar'
+url = 'https://cdn.modrinth.com/data/JkxWVYwU/versions/e37D0ChM/Krypton FNP-forge-1.20.1-0.2.28.2-1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'JkxWVYwU'
-version = '3OHXI5Fu'
+version = 'e37D0ChM'

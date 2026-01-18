@@ -1,16 +1,16 @@
-filename = 'emi-letsdo-compat-1.8.jar'
-name = "[Let's Do Addon] EMI Compat"
-side = 'client'
+filename = '1.8.1+1.20.1+forge.jar'
+name = 'emi-letsdo-compat'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'c48f6401aa97ba7ccc60e5c7fba3d0233552e3151e8305948dd83d99402e3b323d2f652ff8555cbe8a9629d51f6ac7396e644d8025f08af6f2de5913aa4b21dc'
+hash = 'dee27a91687582dd3fcbe06dcfae05e6a6cbd83dcb205a11b205db5587c5073771b0940517884402ce78fc98889ad775ca6aaa878b1ee5ed6bf2b558dcf6f46d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/k6hi4lMv/versions/tKY48PZf/emi-letsdo-compat-1.8.jar'
+url = 'https://cdn.modrinth.com/data/k6hi4lMv/versions/iltPVvOV/1.8.1%2B1.20.1%2Bforge.jar'
 
 [update.modrinth]
 mod-id = 'k6hi4lMv'
-version = 'tKY48PZf'
+version = 'iltPVvOV'

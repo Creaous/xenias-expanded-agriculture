@@ -1,0 +1,16 @@
+filename = 'transcendingtrident-1.20.1-4.9.jar'
+name = 'Transcending Trident'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '779ece1756984909d824d489f50cb065c9c60e2f36a846be1d03f54135633d3d63d3e6d2c9a9c24f0207d2ec0828856ea3886838a121688f6c5b81a16e156911'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7GxZi46W/versions/mstXG0GO/transcendingtrident-1.20.1-4.9.jar'
+
+[update.modrinth]
+mod-id = '7GxZi46W'
+version = 'mstXG0GO'

@@ -1,0 +1,16 @@
+filename = 'access_denied-6.2.0.jar'
+name = 'Access Denied'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '090a680e9c946d9537263c00c7b8dc64b9438f6f8f94d70d719f3d040508d160d4c36cea6d678a1458d009c27f6706429fb3e90ad633740b16eb0f5d6d31da8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UqdL217I/versions/Fhd0nOFA/access_denied-6.2.0.jar'
+
+[update.modrinth]
+mod-id = 'UqdL217I'
+version = 'Fhd0nOFA'

@@ -8,7 +8,7 @@ Welcome to Xenia's Expanded Agriculture (also known as XEA)! Enjoy an expanded v
 
 ## Main Notable Mods
 
-There are a large number of mods in this modpack (190+ - based off of the amount of jars), but here are the notable mods that expand or add new features.
+There are a large number of mods in this modpack (200+ - based off of the amount of jars), but here are the notable mods that expand or add new features.
 
 - **Tough As Nails:** Remember to drink lots of water and don't get too cold/hot.
 - **Thin Air:** Make sure you don't go too deep without a respirator!
@@ -18,7 +18,7 @@ There are a large number of mods in this modpack (190+ - based off of the amount
 - **Farmer's Delight:** Adds a great expansion to food items.
 - **Let's Do Series:** A massive expansion on primarily farming-related items.
 - **Enhanced Visuals:** Immerse yourself in more realistic visuals.
-- **SWEM Lite:** Tired of vanilla horses? Enjoy expanded horses with this mod!
+- **Realistic Horse Genetics:** Tired of vanilla horses? Enjoy expanded horses with this mod!
 - **Alex's Caves:** New rare caves that spawn deep and hidden under the world.
 - **Alex's Mobs:** Adds a lot of new mobs to the game, including new animals!
 - **Aquaculture 2:** Normal fishing is quite boring, so why not add new rods and fish?
@@ -36,6 +36,24 @@ Worried about the modpack only focusing on farming? Well, don't worry! There are
 - **End Remastered:** Makes the journey to the End portal more challenging.
 - **End's Phantasm:** A vanilla-friendly mod to enhance many parts of the End.
 - **Ad Astra:** Would you like to visit other planets in the Solar System? Now you can!
+
+## Requirements
+
+Please have:
+
+- RAM: Minimum - 4 GB | Recommended - 6-8 GB
+
+### Testing
+
+We have tested the modpack on the following system:
+
+- OS: CachyOS x86_64 (250828)
+- CPU: Ryzen 7 7840HS
+- GPU: RTX 4060 Mobile
+- RAM: 64 GB (4 GB for Minecraft)
+- Display: 2560x1440
+
+FPS was around 500 with some dips to around 250-300 in more heavy areas.
 
 ## FAQ
 

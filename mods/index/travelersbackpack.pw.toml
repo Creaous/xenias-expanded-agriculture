@@ -1,4 +1,4 @@
-filename = 'travelersbackpack-forge-1.20.1-9.1.46.jar'
+filename = 'travelersbackpack-forge-1.20.1-9.1.50.jar'
 name = "Traveler's Backpack"
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a4908291aaf633a32030bf036594015d764bc8356ff3860f3e22f572511f8324ffdf615a66b9414318c8714c43f3762864e7c401eb61e3adff5060c32af9b5a3'
+hash = 'dffe3d8d0f86360cb5c5643c3c296c5b58c2ce863870186b9a054aaf8e0e65b4063af910d40b7bec423d876ec00abd67f55334f3932451563e051445b89807e8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/ZYqaoP1B/travelersbackpack-forge-1.20.1-9.1.46.jar'
+url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/K2rEOOpW/travelersbackpack-forge-1.20.1-9.1.50.jar'
 
 [update.modrinth]
 mod-id = 'rlloIFEV'
-version = 'ZYqaoP1B'
+version = 'K2rEOOpW'

@@ -1,16 +1,16 @@
-filename = 'Ixeris-3.6.3+1.20.1-forge.jar'
+filename = 'Ixeris-3.8.6+1.20.1-forge.jar'
 name = 'Ixeris'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9f444fd9545c7be1d21578fa43185a73fd582f1f462bdba1ff0b751b7b2ede5c7851246737219d57e3cba6656958cc9a8cbc113ea8eda13910dcf60691fc825a'
+hash = '3ba13ad0ff18d6fbcb07fcd928e3f9062bf025b3e436a343d11c5a28d79d7c69a7375ccf6a2b443b9320b16677645b8805439fb210882bef4932bd006ed90a46'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/p8RJPJIC/versions/Y4iSkWIp/Ixeris-3.6.3%2B1.20.1-forge.jar'
+url = 'https://cdn.modrinth.com/data/p8RJPJIC/versions/brzxVyjo/Ixeris-3.8.6%2B1.20.1-forge.jar'
 
 [update.modrinth]
 mod-id = 'p8RJPJIC'
-version = 'Y4iSkWIp'
+version = 'brzxVyjo'
