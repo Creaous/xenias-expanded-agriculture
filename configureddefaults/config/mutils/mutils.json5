@@ -5,7 +5,7 @@
 	platform: "MODRINTH",
 	modpackName: "Xenia's Expanded Agriculture",
 	modpackId: "xea",
-	modpackHome: "https://github.com/me/My-Modpack",
+	modpackHome: "https://modrinth.com/modpack/xea",
 	localVersion: "1.0.0",
 	checkMcVersion: true,
 	loader: "forge",
@@ -25,5 +25,5 @@
 	title: "<modpack-name> <version> | Minecraft <mc>",
 	ramMenuAlert: true,
 	ramChatAlert: true,
-	minRam: 4096
+	minRam: 6144
 }

@@ -1,5 +1,5 @@
 filename = 'mcw-mcwstairs-1.0.2-mc1.20.1forge.jar'
-name = "Macaw's Stairs and Balconies"
+name = "Macaw's Stairs"
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

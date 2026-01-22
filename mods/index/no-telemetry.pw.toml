@@ -1,6 +1,6 @@
 filename = 'no-telemetry-1.10.0.jar'
 name = 'No Telemetry'
-side = 'both'
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.18',

@@ -1,0 +1,16 @@
+filename = 'lightmanscurrency-1.20.1-2.3.0.4c.jar'
+name = "Lightman's Currency"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd3dac7187b75624c5ae020e394389abbc37f25497ee28bcfb66a3f4523207ec6867f7bb59db35856d13ce4767fbdf862d5caba7fda0a7b3be4aa752bcaaa2373'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wvMc8AJt/versions/eFduBWxL/lightmanscurrency-1.20.1-2.3.0.4c.jar'
+
+[update.modrinth]
+mod-id = 'wvMc8AJt'
+version = 'eFduBWxL'

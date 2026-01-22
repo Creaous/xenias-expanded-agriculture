@@ -1,5 +1,5 @@
 filename = 'untitled1-forge-1.6.jar'
-name = 'GabousLibs'
+name = "Gabou's Libs"
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

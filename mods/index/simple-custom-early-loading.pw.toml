@@ -1,16 +1,16 @@
-filename = 'SimpleCustomEarlyLoading-2.0.1-forge.jar'
+filename = 'SimpleCustomEarlyLoading-2.1.1-forge.jar'
 name = 'Simple Custom Early Loading'
-side = 'both'
+side = 'client'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0026af041f9ce4c97e39ed2cf3cf5dc73e91dce245cc413a39136be6384b4f344222d1b0a1a51f44aa033eea2c86cc756af73c4ec25b0fde5ccd674ccb968e06'
+hash = '8978b65e17828620bfb489e258f50889cc45ef0026574d52d399fda2b6582da070dafb35860f405b2c8fe69f8be0b48772fcd75b456a64b2557b1439856c38d4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Bi8o4aLw/versions/qwj4dBnF/SimpleCustomEarlyLoading-2.0.1-forge.jar'
+url = 'https://cdn.modrinth.com/data/Bi8o4aLw/versions/RIJ0pQLT/SimpleCustomEarlyLoading-2.1.1-forge.jar'
 
 [update.modrinth]
 mod-id = 'Bi8o4aLw'
-version = 'qwj4dBnF'
+version = 'RIJ0pQLT'

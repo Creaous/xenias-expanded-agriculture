@@ -1,5 +1,5 @@
 filename = 'simplehats-forge-1.20.1-0.4.0.jar'
-name = 'SimpleHats'
+name = 'Simple Hats'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

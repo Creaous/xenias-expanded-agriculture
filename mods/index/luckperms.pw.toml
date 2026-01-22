@@ -1,0 +1,16 @@
+filename = 'LuckPerms-Forge-5.4.102.jar'
+name = 'LuckPerms'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '762256001b0f2037f9d80911ba32ef2c9eaad72b256a9d2ad4e57fc289423ea8018d0751581ecd8f23f6855fd96dec1fd671c43406f9df54fcf20626f518c062'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vebnzrzj/versions/AudvOzqV/LuckPerms-Forge-5.4.102.jar'
+
+[update.modrinth]
+mod-id = 'Vebnzrzj'
+version = 'AudvOzqV'

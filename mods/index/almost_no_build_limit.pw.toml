@@ -1,0 +1,16 @@
+filename = 'Almost_no_height_limit_v1.2.1.jar'
+name = 'ANBL - (Almost) No build limit'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ee581e9f5b70ea04918b5f98b5c5013d306ea0c4ff0e2b6bba00964f659d0788d8774853952d76b74910930046bf1cefc8b9ab5da3e7da06008f1ebba97692fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/n5OZYpqE/versions/mUdBJLmO/Almost_no_height_limit_v1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'n5OZYpqE'
+version = 'mUdBJLmO'
