@@ -1,10 +1,12 @@
-# !!! THIS IS A WORK IN PROGRESS !!!
-
 # Xenia's Expanded Agriculture
 
 Welcome to Xenia's Expanded Agriculture (also known as XEA)! Enjoy an expanded vanilla game with a focus on weather, seasons, farming, animals, and other aspects to make the game a little bit different.
 
 **NOTE:** There are currently no quests in the game. This modpack is just more focused on discovering things yourself. Good luck!
+
+## Notice
+
+This modpack is still under heavy development. The only official modpack locations are [Modrinth](https://modrinth.com/project/xea) and [GitHub](https://github.com/Creaous/xenias-expanded-agriculture).
 
 ## Main Notable Mods
 
